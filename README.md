@@ -2,7 +2,7 @@
 
 2<sup>74,207,281</sup> - 1 in audio form.
 
-Takes in ogg files of individual numbers, then goes through the prime number(as a string from a file) and appends the sound bites together. Made a few days after 2<sup>74,207,281</sup> was confirmed as prime.
+Takes in ogg files of individual numbers, then goes through the prime number(as a string from a file) and appends the sound bites together. Made a few days after 2<sup>74,207,281</sup> was confirmed as prime. The code is commented with some detail to help explain how it works.
 
 Written with python 3.5.0. It will probably work with 3.x or 3.4.
 
