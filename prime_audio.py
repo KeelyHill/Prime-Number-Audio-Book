@@ -14,7 +14,7 @@ number_sounds = []
 def loadBigNumFileToList():
     print("Loading file.")
     with open('M74207281.txt') as f:
-        lines = f.readlines()
+        lines = f.readlines() # already in 100 numbers per line
 
     clean_lines = []
 
